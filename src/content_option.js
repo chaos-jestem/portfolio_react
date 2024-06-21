@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop web apps",
         fourth: "I love designing graphics"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a junior front-end developer and this is my portfolio. Here you can find links to my social like and also see couple of my projects",
     your_img_url: "https://i.imgur.com/wlMF9IU.jpg",
 };
 
