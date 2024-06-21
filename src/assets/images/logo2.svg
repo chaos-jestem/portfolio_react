@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" filter="url(#svg_11_blur)" font-family="Sans-serif" font-size="180" font-style="normal" font-weight="bold" id="svg_11" lengthAdjust="spacing" letter-spacing="0" opacity="0.8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" textLength="396" transform="matrix(1.008 0 0 1.008 -0.548001 -2.67601)" word-spacing="0" x="256" xml:space="preserve" y="307">chaos</text>
+  <text fill="#000000" fill-opacity="null" font-family="Sans-serif" font-size="150" font-style="normal" font-weight="bold" id="svg_10" lengthAdjust="spacing" letter-spacing="0" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" textLength="375" transform="matrix(1 0 0 1 0 0)" word-spacing="0" x="256" xml:space="preserve" y="300">chaos</text>
+ </g>
+ <defs>
+  <filter height="200%" id="svg_11_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="9.5"/>
+  </filter>
+ </defs>
+</svg>
