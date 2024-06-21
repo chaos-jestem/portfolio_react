@@ -107,9 +107,9 @@ const dataportfolio = [
         link: "https://github.com/chaos-jestem/Snake_RickandMorty",
     },
     {
-        img: "https://img.redro.pl/naklejki/coming-soon!-700-188045019.jpg",
-        description: "Coming soon...",
-        link: "#",
+        img: "https://github.com/chaos-jestem/portfolio_react/blob/main/src/assets/images/avaa.png?raw=true",
+        description: "This portfolio made in REACT",
+        link: "https://github.com/chaos-jestem/portfolio_react",
     },
     {
         img: "https://media.istockphoto.com/id/1444944839/vector/hands-holding-clipboard-with-checklist-with-green-check-marks-and-pen-human-filling-control.jpg?s=612x612&w=0&k=20&c=xJj82aPzJZYFrCdOXR1BEGWnTi1OxXQWNaq11ga6wgA=",
