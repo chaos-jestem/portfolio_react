@@ -86,7 +86,7 @@ const services = [{
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I made couple websites which are unluckily not active actually",
     },
 ];
 
